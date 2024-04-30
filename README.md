@@ -1,5 +1,5 @@
 <h1 width="100vw" align="center" background-color="#1E1800">
-  <img src=".github/logo.png" width="20%">
+  <img src=".github/logo.png" width="50%">
 </h1>
 
 ### Sobre o projeto
@@ -65,19 +65,19 @@ O BEEVENTOS é um software de apoio à gestão da qualidade de eventos. Conecta 
 
 ### Diagramas de casos de uso
 
-<p><img src=".github/RF001.png" width="50%"></p>
+<p><img src=".github/RF001.png" width="100%"></p>
 <br>
-<p><img src=".github/RF002.png" width="50%"></p>
+<p><img src=".github/RF002.png" width="100%"></p>
 <br>
-<p><img src=".github/RF003.png" width="50%"></p>
+<p><img src=".github/RF003.png" width="100%"></p>
 <br>
-<p><img src=".github/RF004.png" width="50%"></p>
+<p><img src=".github/RF004.png" width="100%"></p>
 <br>
-<p><img src=".github/RF006.png" width="50%"></p>
+<p><img src=".github/RF006.png" width="100%"></p>
 <br>
-<p><img src=".github/RF008.png" width="50%"></p>
+<p><img src=".github/RF008.png" width="100%"></p>
 <br>
-<p><img src=".github/RF010.png" width="50%"></p>
+<p><img src=".github/RF010.png" width="100%"></p>
 <br>
 
 ### Contribuidores
